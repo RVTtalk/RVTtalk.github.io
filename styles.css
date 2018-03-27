@@ -1,0 +1,15 @@
+body {
+	background-image: url(bricks.jpeg);
+	text-align: center;
+	font-family: Verdana;
+}
+img {
+	border-radius: 50%;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+#bracket {
+	border-radius: 9%;
+}
